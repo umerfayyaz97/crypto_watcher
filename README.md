@@ -5,5 +5,9 @@
 - Currently, it is working best in two screens, one will give output in CLI and other screen where Watcher Keeps an eye.<br />
 - You need to set your strategy or indicators once in tradingview, bot simply opens the charts with given timeframes.<br />
 
+## First Main Screen opens charts 
 
+## Second Screen output
+
+https://github.com/user-attachments/assets/2c2b66bb-aeba-4591-b488-4058c9291895
 
