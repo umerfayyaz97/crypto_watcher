@@ -1,0 +1,8 @@
+
+pyautogui
+
+
+openai-agents
+
+
+python-dotenv
