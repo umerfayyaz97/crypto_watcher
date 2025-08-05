@@ -4,6 +4,6 @@
 -Add APIs in env file.
 -Currently, it is working best in two screens, one will give output in CLI and other screen where Watcher Keeps an eye. 
 -You need to set your strategy or indicators once in tradingview, bot simply opens the charts with given timeframes.
-
+- 
 
 
